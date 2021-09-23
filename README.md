@@ -4,7 +4,6 @@ A simple Java-Based To-Do List app that can help to organize your schedule.
 <b><i>Only available for Android</b></i>
 
 <b>A little demo:</b>
-
 Coming soon...
 
 <b>Credits</b>
