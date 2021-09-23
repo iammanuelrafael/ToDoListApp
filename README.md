@@ -1,5 +1,5 @@
 # ToDoListApp
-A simple Java-Based To-Do List app made in Android that can help to organize your schedule.
+A simple Java-Based To-Do List app made in Android that can help organize your schedule.
 
 <b><i>Only available for Android</b></i>
 
